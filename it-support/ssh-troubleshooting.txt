@@ -1,0 +1,2 @@
+1. Check if your SSH public key is added to the server’s ~/.ssh/authorized_keys file.
+2. Run ssh-add to ensure your SSH private key is loaded into your SSH agent.

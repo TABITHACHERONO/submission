@@ -1,0 +1,11 @@
+sudo systemctl restart nginx
+ Restarts the Nginx web server using root permissions.
+
+psql -U postgres
+Opens PostgreSQL shell as user 'postgres'.
+
+ping google.com
+ Sends test packets to Google's server to check internet connection.
+
+df -h
+ Displays disk usage in a human-readable format.
